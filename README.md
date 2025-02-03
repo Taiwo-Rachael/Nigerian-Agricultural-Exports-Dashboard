@@ -1,4 +1,4 @@
-# Nigeria-Agricultural-Exports-Dashboard
+# Nigerian-Agricultural-Exports-Dashboard
 ![Dashboard highlight feature](https://github.com/Taiwo-Rachael/Nigerian-Agricultural-Exports-Dashboard/blob/main/Dashboard%20Highlight%20Feature.png)
 
 Agricultural exports are vital to Nigeria's economy, contributing to foreign exchange, employment, and industrial growth. However, the export sector is fraught with challenges such as fluctuating global demand, inefficiencies in supply chains, and limited insight into product-specific performance. These factors can erode profitability and reduce competitiveness in international markets. Tracking Key Performance Indicators (KPIs) such as export value, profit margins, and export volume is essential for identifying trends, evaluating the performance of products and companies, and uncovering growth opportunities. Effective monitoring and analysis of these KPIs enable businesses and policymakers to make informed decisions to optimize export operations and maximize profitability.     
